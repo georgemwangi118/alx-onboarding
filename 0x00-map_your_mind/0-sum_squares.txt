@@ -1,0 +1,5 @@
+#initialize two variables (a,b).
+#declare variable c and assign the square of variable a: (a * a);
+#declare variable d and assign the square of variable b: (b * b);
+#declare variable e and assign the sum of variable c and d: (c + d);
+#return e;
